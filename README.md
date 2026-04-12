@@ -3,7 +3,7 @@
 
 <h2>Sistema de Ventas con Concurrencia y Procesamiento Paralelo en C#</h2>
 
-##Prueba
+## Prueba
 
 
 
