@@ -135,7 +135,7 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 <p>-  TextBox multilínea → <code>txtResultado</code></p>
 6. Crear la entidad en la carpeta Entidades
 
-```
+```csharp
 public class Venta
 {
 
