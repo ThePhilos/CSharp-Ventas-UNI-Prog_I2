@@ -20,13 +20,58 @@ El objetivo es implementar una solución que procese información sin bloquear l
 -Indicadores de estado y progreso<br>
 -Arquitectura desacoplada mediante patrón Repository<br>
 
-<h2>Herramientas tecnológicas</h2>
-Lenguaje: C#<br>
-Framework: .NET 6.0 o superior<br>
-Interfaz de Usuario: Windows Forms (WinForms)<br>
-Concurrencia: Task, async/await<br>
-Paralelismo: PLINQ (AsParallel)<br>
-Serialización (opcional): System.Text.Json<br>
+<h2>🛠️ Herramientas Tecnológicas</h2>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-Programming-blue?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-6.0-purple?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/WinForms-UI-blueviolet?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Async-Await-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PLINQ-Parallel-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JSON-Serialization-lightgrey?style=for-the-badge&logo=json&logoColor=black">
+</p>
+
+<br>
+
+<!-- Accordion -->
+<details>
+  <summary><strong>🔍 Ver detalle de tecnologías</strong></summary>
+  <br>
+
+  <ul>
+    <li>
+      <strong>💻 Lenguaje</strong><br>
+      <sub>C# — Lenguaje principal orientado a objetos.</sub>
+    </li>
+    <br>
+    <li>
+      <strong>🧱 Framework</strong><br>
+      <sub>.NET 6.0 o superior para desarrollo moderno.</sub>
+    </li>
+    <br>
+    <li>
+      <strong>🖥️ Interfaz</strong><br>
+      <sub>Windows Forms (WinForms) para aplicaciones de escritorio.</sub>
+    </li>
+    <br>
+    <li>
+      <strong>⚡ Concurrencia</strong><br>
+      <sub>Uso de Task y async/await para operaciones no bloqueantes.</sub>
+    </li>
+    <br>
+    <li>
+      <strong>🚀 Paralelismo</strong><br>
+      <sub>PLINQ (AsParallel) para procesamiento eficiente.</sub>
+    </li>
+    <br>
+    <li>
+      <strong>📦 Serialización</strong><br>
+      <sub>System.Text.Json (opcional) para manejo de datos.</sub>
+    </li>
+  </ul>
+
+</details>
 
 <h2>Documentación del Proyecto</h2>
 Para comprender el desarrollo y los conceptos aplicados en esta práctica, puedes consultar la guía base utilizada:
