@@ -135,9 +135,9 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 -  Button → <code>btnLimpiar</code><br>
 -  Label → <code>lblEstado</code><br>
 -  ProgressBar → <code>progressBar1</code><br>
-<p>-  TextBox multilínea → <code>txtResultado</code></p>
+-  TextBox multilínea → <code>txtResultado</code><br>
 
-6. Crear la entidad en la carpeta Entidades
+<p>6. Crear la entidad en la carpeta Entidades</p>
 
 ```csharp
 public class Venta
