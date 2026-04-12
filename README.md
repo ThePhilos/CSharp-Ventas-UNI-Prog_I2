@@ -18,7 +18,19 @@ El objetivo es implementar una solución que procese información sin bloquear l
 </p>
 
 ---
-## Funcionalidades ## <b>Carga de ventas asíncrona:</b> Obtiene datos sin bloquear la interfaz del usuario.<br> <p><b>Procesamiento paralelo:</b> Uso de <code>AsParallel()</code> para optimizar cálculos.</p> <b>Cálculo de estadísticas:</b><br> - Total vendido <br> - Promedio de ventas<br> - Venta con mayor valor<br> <p>-Agrupación por categoría</p> <b>Interfaz dinámica:</b> Herramientas tecnológicas -Visualización en <code>DataGridView</code><br> -Indicadores de estado y progreso<br> -Arquitectura desacoplada mediante patrón Repository<br>
+## Funcionalidades ## 
+<b>Carga de ventas asíncrona:</b> Obtiene datos sin bloquear la interfaz del usuario.<br>
+<p><b>Procesamiento paralelo:</b> Uso de <code>AsParallel()</code> para optimizar cálculos.</p> 
+<b>Cálculo de estadísticas:</b><br> 
+- Total vendido <br> 
+- Promedio de ventas<br> 
+- Venta con mayor valor<br> 
+<p>-Agrupación por categoría</p> 
+<b>Interfaz dinámica:</b> 
+Herramientas tecnológicas 
+-Visualización en <code>DataGridView</code><br> 
+-Indicadores de estado y progreso<br> 
+-Arquitectura desacoplada mediante patrón Repository<br>
 
 <h2> Herramientas Tecnológicas</h2>
 
