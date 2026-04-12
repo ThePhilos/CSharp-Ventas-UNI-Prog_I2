@@ -47,26 +47,31 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
-<p align="center">
-  <a href="https://github.com/ThePhilos">
-    <img src="https://github.com/ThePhilos.png" width="100px;" style="border-radius:50%"/>
-  </a>
-  <a href="https://github.com/maurijrbs">
-    <img src="https://github.com/maurijrbs.png" width="100px;" style="border-radius:50%"/>
-  </a>
-  <a href="https://github.com/xOfho">
-    <img src="https://github.com/xOfho.png" width="100px;" style="border-radius:50%"/>
-  </a>
-  <a href="https://github.com/joletteolivas">
-    <img src="https://github.com/joletteolivas.png" width="100px;" style="border-radius:50%"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    <a href="https://github.com/ThePhilos">ThePhilos</a> •
-    <a href="https://github.com/maurijrbs">maurijrbs</a> •
-    <a href="https://github.com/xOfho">xOfho</a> •
-    <a href="https://github.com/joletteolivas">joletteolivas</a>
-  </sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ThePhilos">
+        <img src="https://github.com/ThePhilos.png" width="100px;" style="border-radius:50%;" /><br />
+        <sub><b>ThePhilos</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/maurijrbs">
+        <img src="https://github.com/maurijrbs.png" width="100px;" style="border-radius:50%;" /><br />
+        <sub><b>maurijrbs</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xOfho">
+        <img src="https://github.com/xOfho.png" width="100px;" style="border-radius:50%;" /><br />
+        <sub><b>xOfho</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joletteolivas">
+        <img src="https://github.com/joletteolivas.png" width="100px;" style="border-radius:50%;" /><br />
+        <sub><b>joletteolivas</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
