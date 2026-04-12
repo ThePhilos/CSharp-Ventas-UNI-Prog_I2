@@ -10,12 +10,12 @@ El objetivo es implementar una solución que procese información sin bloquear l
 <h2>Funcionalidades</h2>
 <p>Carga de ventas asíncrona: Obtiene datos sin bloquear la interfaz del usuario.</p>
 <p>Procesamiento paralelo: Uso de AsParallel() para optimizar cálculos.</p>
-<h3>Cálculo de estadísticas:</h3><br>
+<h4>Cálculo de estadísticas:</h4><br>
 -Total vendido<br>
 -Promedio de ventas
 -Venta con mayor valor<br>
 <p>-Agrupación por categoría</p>
-<h3>Interfaz dinámica:</h3><br>
+<h4>Interfaz dinámica:</h4><br>
 -Visualización en DataGridView<br>
 -Indicadores de estado y progreso<br>
 -Arquitectura desacoplada mediante patrón Repository<br>
