@@ -15,7 +15,7 @@ El objetivo es implementar una solución que procese información sin bloquear l
 -Promedio de ventas
 -Venta con mayor valor<br>
 <p>-Agrupación por categoría</p>
-<b>Interfaz dinámica:</b>Herramientas tecnológicas
+<b>Interfaz dinámica:</b> Herramientas tecnológicas
 -Visualización en DataGridView<br>
 -Indicadores de estado y progreso<br>
 -Arquitectura desacoplada mediante patrón Repository<br>
