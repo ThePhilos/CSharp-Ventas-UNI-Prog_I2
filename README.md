@@ -28,5 +28,11 @@ Concurrencia: Task, async/await<br>
 Paralelismo: PLINQ (AsParallel)<br>
 Serialización (opcional): System.Text.Json<br>
 
+Documentación del Proyecto
+
+Para comprender el desarrollo y los conceptos aplicados en esta práctica, puedes consultar la guía base utilizada:
+
+<p align="left"> <a href="#"> <img src="https://img.shields.io/badge/Guía%20Unidad%20II-32CD32?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Guía" /> </a> </p>
+
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
