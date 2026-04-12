@@ -122,17 +122,17 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 2. Crear nuevo proyecto Windows Forms App (.NET).<br>
 3. Asegurarse de seleccionar .NET 6.0 o superior.<br>
 4. Crear tres carpetas en el proyecto:<br>
-- Entidades<br>
-- Repositorio<br>
-- Servicios<br>
+-  Entidades<br>
+-  Repositorio<br>
+-  Servicios<br>
 5. Diseñar el formulario agregando los siguientes controles:<br>
-DataGridView → dgvVentas<br>
-Button → <code>btnCargar</code><br>
-Button → <code>btnProcesar</code><br>
-Button → <code>btnLimpiar</code><br>
-Label → <code>lblEstado</code><br>
-ProgressBar → progressBar1<br>
-TextBox multilínea → txtResultado<br>
+-  DataGridView → dgvVentas<br>
+-  Button → <code>btnCargar</code><br>
+-  Button → <code>btnProcesar</code><br>
+-  Button → <code>btnLimpiar</code><br>
+-  Label → <code>lblEstado</code><br>
+-  ProgressBar → progressBar1<br>
+-  TextBox multilínea → txtResultado<br>
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
 <table align="center">
