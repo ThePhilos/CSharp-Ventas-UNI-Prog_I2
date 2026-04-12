@@ -126,13 +126,13 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 -  Repositorio<br>
 -  Servicios<br>
 <b>5. Diseñar el formulario agregando los siguientes controles:</b><br>
--  DataGridView → dgvVentas<br>
+-  DataGridView → <code>dgvVentas</code><br>
 -  Button → <code>btnCargar</code><br>
 -  Button → <code>btnProcesar</code><br>
 -  Button → <code>btnLimpiar</code><br>
 -  Label → <code>lblEstado</code><br>
--  ProgressBar → progressBar1<br>
-<p>-  TextBox multilínea → txtResultado</p>
+-  ProgressBar → <code>progressBar1</code><br>
+<p>-  TextBox multilínea → <code>txtResultado</code></p>
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
 <table align="center">
