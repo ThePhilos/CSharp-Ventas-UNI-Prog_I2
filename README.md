@@ -117,7 +117,7 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
   </tbody>
 </table>
 
-<h3>Pasos a seguir:</h3>
+## Pasos a seguir: ##
 1. Abrir Visual Studio 2022.<br>
 2. Crear nuevo proyecto Windows Forms App (.NET).<br>
 3. Asegurarse de seleccionar .NET 6.0 o superior.<br>
