@@ -127,7 +127,7 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 -  Repositorio<br>
 -  Servicios<br>
 
-<b>5. Diseñar el formulario agregando los siguientes controles:</b><br>
+5. Diseñar el formulario agregando los siguientes controles:<br>
 
 -  DataGridView → <code>dgvVentas</code><br>
 -  Button → <code>btnCargar</code><br>
