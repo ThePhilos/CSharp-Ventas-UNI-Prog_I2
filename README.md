@@ -36,9 +36,7 @@ El objetivo es implementar una solución que procese información sin bloquear l
 
 <!-- Accordion -->
 <details>
-  <summary><strong><h4>🔍 Ver detalle de tecnologías</h4></strong></summary>
-  <br>
-
+  <h4><summary><strong>🔍 Ver detalle de tecnologías</h4></strong></summary><br></h4>
   <ul>
     <li>
       <strong> Lenguaje</strong><br>
