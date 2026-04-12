@@ -9,19 +9,26 @@ El objetivo es implementar una solución que procese información sin bloquear l
 
 <h2>🎥 Vista previa del sistema</h2>
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNteHlhNzB3YWxrbnZlZGN0cDRnOHJuZHU5d3dyZGk0b3BwOGt4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ppSjX2iP9Ec1ExJRsV/giphy.gif" width="30%">
-</p>
+<details>
+  <summary><strong>▶️ Ejecutar sistema</strong></summary>
 
-<p align="center">
-  <b>⬇️ Cargando sistema...</b>
-</p>
+  <br>
 
-<br>
+  <p align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNteHlhNzB3YWxrbnZlZGN0cDRnOHJuZHU5d3dyZGk0b3BwOGt4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ppSjX2iP9Ec1ExJRsV/giphy.gif" width="60%">
+  </p>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3QyaTl2ZHM5dnNsdWZnZGQyNnUyeTJhMnM1amd3Nm80N2RzOGEzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2rNOf3b7vJgk/giphy.gif" width="40%">
-</p>
+  <p align="center">
+    <b>⏳ Cargando...</b>
+  </p>
+
+  <br>
+
+  <p align="center">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3QyaTl2ZHM5dnNsdWZnZGQyNnUyeTJhMnM1amd3Nm80N2RzOGEzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2rNOf3b7vJgk/giphy.gif" width="80%">
+  </p>
+
+</details>
 
 ---
 ## Funcionalidades ## 
