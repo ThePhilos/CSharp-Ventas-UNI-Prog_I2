@@ -122,10 +122,13 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 2. Crear nuevo proyecto Windows Forms App (.NET).<br>
 3. Asegurarse de seleccionar .NET 6.0 o superior.<br>
 4. Crear tres carpetas en el proyecto:<br>
+
 -  Entidades<br>
 -  Repositorio<br>
 -  Servicios<br>
+
 <b>5. Diseñar el formulario agregando los siguientes controles:</b><br>
+
 -  DataGridView → <code>dgvVentas</code><br>
 -  Button → <code>btnCargar</code><br>
 -  Button → <code>btnProcesar</code><br>
@@ -133,6 +136,7 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 -  Label → <code>lblEstado</code><br>
 -  ProgressBar → <code>progressBar1</code><br>
 <p>-  TextBox multilínea → <code>txtResultado</code></p>
+
 6. Crear la entidad en la carpeta Entidades
 
 ```csharp
