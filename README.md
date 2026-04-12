@@ -36,12 +36,38 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
   </a>
 </p>
 
-<h2>Estructura del Código</h2>
-<b>Venta.cs:</b> Define la entidad principal con las propiedades de cada venta.<br>
-<b>IVentaRepository.cs:</b> Define el contrato para obtener datos de ventas.<br>
-<b>VentaRepository.cs:</b> Simula la carga de datos de forma asíncrona.<br>
-<b>VentaService.cs:</b> Contiene la lógica de procesamiento paralelo de ventas.<br>
-<b>Form1.cs:</b> Maneja la interacción del usuario y eventos de la interfaz.
+<h2>📂 Estructura del Código</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Archivo</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>Venta.cs</code></td>
+      <td>Define la entidad principal con las propiedades de cada venta.</td>
+    </tr>
+    <tr>
+      <td><code>IVentaRepository.cs</code></td>
+      <td>Establece el contrato para la obtención de datos de ventas.</td>
+    </tr>
+    <tr>
+      <td><code>VentaRepository.cs</code></td>
+      <td>Simula la carga de datos de manera asíncrona.</td>
+    </tr>
+    <tr>
+      <td><code>VentaService.cs</code></td>
+      <td>Implementa la lógica de procesamiento paralelo de ventas.</td>
+    </tr>
+    <tr>
+      <td><code>Form1.cs</code></td>
+      <td>Gestiona la interacción del usuario y los eventos de la interfaz.</td>
+    </tr>
+  </tbody>
+</table>
 
 <h3>Pasos a seguir:</h3>
 
