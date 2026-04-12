@@ -10,22 +10,30 @@ El objetivo es implementar una solución que procese información sin bloquear l
 <h2>🎥 Vista previa del sistema</h2>
 
 <details>
-  <summary><strong>▶️ Ejecutar sistema</strong></summary>
+  <summary><strong>▶️ Iniciar sistema</strong></summary>
 
   <br>
 
   <p align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNteHlhNzB3YWxrbnZlZGN0cDRnOHJuZHU5d3dyZGk0b3BwOGt4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ppSjX2iP9Ec1ExJRsV/giphy.gif" width="60%">
+    <img src="https://img.shields.io/badge/Booting-System-yellow?style=for-the-badge">
   </p>
 
   <p align="center">
-    <b>⏳ Cargando...</b>
+    ⏳ Inicializando módulos...
+  </p>
+
+  <p align="center">
+    ▓▓▓▓▓░░░░░ 50%
   </p>
 
   <br>
 
   <p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3QyaTl2ZHM5dnNsdWZnZGQyNnUyeTJhMnM1amd3Nm80N2RzOGEzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2rNOf3b7vJgk/giphy.gif" width="80%">
+    <img src="https://img.shields.io/badge/System-Ready-success?style=for-the-badge">
+  </p>
+
+  <p align="center">
+    🚀 Aplicación en ejecución
   </p>
 
 </details>
