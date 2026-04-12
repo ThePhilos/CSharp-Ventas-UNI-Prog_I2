@@ -7,6 +7,8 @@ Este proyecto es una aplicación de escritorio desarrollada en C# con Windows Fo
 
 El objetivo es implementar una solución que procese información sin bloquear la interfaz, manteniendo una estructura organizada del código.
 
+<h2>Funcionalidades</h2>
+
 
 
 
