@@ -15,10 +15,10 @@ Cálculo de estadísticas:
 <p>-Promedio de ventas</p>
 <p>-Venta con mayor valor</p>
 <p>-Agrupación por categoría</p>
-Interfaz dinámica:
--Visualización en DataGridView
--Indicadores de estado y progreso
--Arquitectura desacoplada mediante patrón Repository
+Interfaz dinámica:<br>
+-Visualización en DataGridView<br>
+-Indicadores de estado y progreso<br>
+-Arquitectura desacoplada mediante patrón Repository<br>
 
 
 
