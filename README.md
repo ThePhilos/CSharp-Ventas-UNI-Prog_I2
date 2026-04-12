@@ -10,5 +10,5 @@ El objetivo es implementar una solución que procese información sin bloquear l
 
 
 
-#Contribuidores
+# Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
