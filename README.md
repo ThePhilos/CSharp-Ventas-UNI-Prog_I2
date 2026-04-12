@@ -18,62 +18,7 @@ El objetivo es implementar una solución que procese información sin bloquear l
 </p>
 
 ---
-
-<h2>📊 Dashboard de características</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-Activo-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Arquitectura-Repository-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Performance-Optimized-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/UI-WinForms-purple?style=for-the-badge">
-</p>
-
----
-
-<h2>🚀 Características principales</h2>
-
-| Funcionalidad | Descripción |
-|--------------|------------|
-| ⚡ Carga asíncrona | Datos sin bloquear la UI |
-| 🚀 Procesamiento paralelo | Uso de PLINQ |
-| 📊 Estadísticas | Métricas en tiempo real |
-| 🖥️ Interfaz | DataGridView dinámico |
-
----
-
-<h2>🧪 Ejemplo visual</h2>
-
-<details>
-  <summary><strong>📸 Ver captura</strong></summary>
-
-  <br>
-
-  <p align="center">
-    <img src="https://via.placeholder.com/700x350?text=Captura+del+Sistema" width="75%">
-  </p>
-
-</details>
-
----
-
-<h2>🧠 Conceptos aplicados</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/OOP-Principles-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Async-Await-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Parallelism-PLINQ-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Design-Patterns-lightgrey?style=flat-square">
-</p>
-
----
-
-<h2>📌 Notas</h2>
-
-<ul>
-  <li>✔️ Proyecto orientado a concurrencia y paralelismo</li>
-  <li>✔️ Código limpio y mantenible</li>
-  <li>✔️ Fácil de escalar</li>
-</ul>
+## Funcionalidades ## <b>Carga de ventas asíncrona:</b> Obtiene datos sin bloquear la interfaz del usuario.<br> <p><b>Procesamiento paralelo:</b> Uso de <code>AsParallel()</code> para optimizar cálculos.</p> <b>Cálculo de estadísticas:</b><br> - Total vendido <br> - Promedio de ventas<br> - Venta con mayor valor<br> <p>-Agrupación por categoría</p> <b>Interfaz dinámica:</b> Herramientas tecnológicas -Visualización en <code>DataGridView</code><br> -Indicadores de estado y progreso<br> -Arquitectura desacoplada mediante patrón Repository<br>
 
 <h2> Herramientas Tecnológicas</h2>
 
