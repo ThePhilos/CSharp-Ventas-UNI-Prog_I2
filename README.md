@@ -10,11 +10,17 @@ El objetivo es implementar una solución que procese información sin bloquear l
 <h2>🎥 Vista previa del sistema</h2>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3QyaTl2ZHM5dnNsdWZnZGQyNnUyeTJhMnM1amd3Nm80N2RzOGEzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2rNOf3b7vJgk/giphy.gif" alt="Preview App" width="20%">
+  <img src="loading.gif" width="60%">
 </p>
 
 <p align="center">
-  <sub>.</sub>
+  <b>⬇️ Cargando sistema...</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="demo-app.gif" width="80%">
 </p>
 
 ---
