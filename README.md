@@ -30,7 +30,11 @@ Serialización (opcional): System.Text.Json<br>
 
 <h2>Documentación del Proyecto</h2>
 Para comprender el desarrollo y los conceptos aplicados en esta práctica, puedes consultar la guía base utilizada:
-<p align="left"> <a href="#"> <img src="https://img.shields.io/badge/Guía%20Unidad%20II-32CD32?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Guía" /> </a> </p>
+<p align="left">
+  <a href="https://github.com/xOfho/CSharp-FileSystem-UNI-Prog_I1/raw/main/docs/Guia_Practica_Prog_II.pdf](https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/blob/master/docs/Gu%C3%ADa%20Pr%C3%A1ctica%20ll%20(1).pdf">
+    <img src="https://img.shields.io/badge/Descargar%20Guía%20PDF-32CD32?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download PDF" />
+  </a>
+</p>
 
 <h2>Estructura del Código</h2>
 <b>Venta.cs:</b> Define la entidad principal con las propiedades de cada venta.<br>
