@@ -50,3 +50,4 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 | <img src="https://github.com/ThePhilos.png" width="100px;"/>
 | <img src="https://github.com/maurijrbs.png" width="100px;"/> 
 | <img src="https://github.com/xOfho.png" width="100px;"/> 
+| <img src="https://github.com/joletteolivas.png" width="100px;"/>
