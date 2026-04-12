@@ -115,9 +115,9 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 </table>
 
 <h3>Pasos a seguir:</h3>
-Abrir Visual Studio 2022.<br>
-Crear nuevo proyecto Windows Forms App (.NET).<br>
-Asegurarse de seleccionar .NET 6.0 o superior.<br>
+1.  Abrir Visual Studio 2022.<br>
+2.  Crear nuevo proyecto Windows Forms App (.NET).<br>
+3.  Asegurarse de seleccionar .NET 6.0 o superior.<br>
 
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
