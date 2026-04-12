@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Producto": "Laptop",
+    "Categoria": "Tecnología",
+    "Cantidad": 2,
+    "PrecioUnitario": 500,
+    "Fecha": "2026-04-11T10:00:00"
+  },
+  {
+    "Id": 2,
+    "Producto": "Mouse",
+    "Categoria": "Tecnología",
+    "Cantidad": 5,
+    "PrecioUnitario": 20,
+    "Fecha": "2026-04-11T08:00:00"
+  },
+  {
+    "Id": 3,
+    "Producto": "Silla",
+    "Categoria": "Oficina",
+    "Cantidad": 2,
+    "PrecioUnitario": 120,
+    "Fecha": "2026-04-11T09:00:00"
+  }
+]
