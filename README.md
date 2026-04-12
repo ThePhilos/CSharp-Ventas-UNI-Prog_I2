@@ -39,5 +39,7 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 <b>VentaService.cs:</b> Contiene la lógica de procesamiento paralelo de ventas.<br>
 <b>Form1.cs:</b> Maneja la interacción del usuario y eventos de la interfaz.
 
+<h3>Pasos a seguir:</h3>
+
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
