@@ -143,6 +143,7 @@ public class Venta
     public int Cantidad { get; set; }
     public decimal PrecioUnitario { get; set; }
     public DateTime Fecha { get; set; }
+    
     public decimal Total
     {
         get { return Cantidad * PrecioUnitario; }
