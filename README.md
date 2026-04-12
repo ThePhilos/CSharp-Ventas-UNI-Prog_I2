@@ -33,11 +33,11 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 <p align="left"> <a href="#"> <img src="https://img.shields.io/badge/Guía%20Unidad%20II-32CD32?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Guía" /> </a> </p>
 
 <h2>Estructura del Código</h2>
-Venta.cs: Define la entidad principal con las propiedades de cada venta.<br>
-IVentaRepository.cs: Define el contrato para obtener datos de ventas.<br>
-VentaRepository.cs: Simula la carga de datos de forma asíncrona.<br>
-VentaService.cs: Contiene la lógica de procesamiento paralelo de ventas.<br>
-Form1.cs: Maneja la interacción del usuario y eventos de la interfaz.
+<b>Venta.cs:</b> Define la entidad principal con las propiedades de cada venta.<br>
+<b>IVentaRepository.cs:</b> Define el contrato para obtener datos de ventas.<br>
+<b>VentaRepository.cs:</b> Simula la carga de datos de forma asíncrona.<br>
+<b>VentaService.cs:</b> Contiene la lógica de procesamiento paralelo de ventas.<br>
+<b>Form1.cs:</b> Maneja la interacción del usuario y eventos de la interfaz.
 
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
