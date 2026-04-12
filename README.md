@@ -45,6 +45,23 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 
 <h3>Pasos a seguir:</h3>
 
+## Pasos con Capturas de Pantallas
+
+> *Pasos a seguir:*
+
+1.  [cite_start]Abrir Visual Studio 2022[cite: 4].
+2.  [cite_start]Crear nuevo proyecto Windows Forms App (.NET)[cite: 5].
+3.  [cite_start]Asegúrese de que el Framework seleccionado sea .NET 6.0 o superior[cite: 6].
+
+4.  [cite_start]En la solución, haga clic derecho al Proyecto y cree 3 carpetas con los nombres de: Entidades, Repositorio y Servicio[cite: 70, 71].
+5.  [cite_start]Agregue las clases e interfaces correspondientes en cada carpeta (Venta.cs, IVentaRepository.cs, etc.) [cite: 144-152].
+6.  [cite_start]Crear la interfaz gráfica agregando el DataGridView, botones y la barra de progreso [cite: 16-32].
+
+7.  [cite_start]Luego en el Formulario se agrega un Label (lblEstado) para mostrar el estado de la carga[cite: 28, 29].
+8.  [cite_start]Se agregan los botones para las acciones: Cargar ventas, Procesar ventas y Limpiar [cite: 19-27].
+9.  [cite_start]Hacemos clic en cada control y, en la ventana de propiedades, cambiamos el (Name) para identificarlos en el código[cite: 18, 20, 23, 26, 32].
+
+
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
 <p align="center">
