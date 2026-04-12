@@ -134,9 +134,11 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 -  ProgressBar → <code>progressBar1</code><br>
 <p>-  TextBox multilínea → <code>txtResultado</code></p>
 6. Crear la entidad en la carpeta Entidades
-```csharp
+
+```
 public class Venta
 {
+
     public int Id { get; set; }
     public string Producto { get; set; }
     public string Categoria { get; set; }
@@ -148,8 +150,10 @@ public class Venta
     {
         get { return Cantidad * PrecioUnitario; }
     }
-}
+} 
 ```
+
+
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
 <table align="center">
