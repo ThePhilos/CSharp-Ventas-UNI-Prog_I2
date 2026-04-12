@@ -7,7 +7,7 @@ Este proyecto es una aplicación de escritorio desarrollada en C# con Windows Fo
 
 El objetivo es implementar una solución que procese información sin bloquear la interfaz, manteniendo una estructura organizada del código.
 
-<h2>Funcionalidades</h2>
+##Funcionalidades##
 <b>Carga de ventas asíncrona:</b> Obtiene datos sin bloquear la interfaz del usuario.<br>
 <p><b>Procesamiento paralelo:</b> Uso de AsParallel() para optimizar cálculos.</p>
 <b>Cálculo de estadísticas:</b><br>
