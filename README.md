@@ -28,12 +28,12 @@ El objetivo es implementar una solución que procese información sin bloquear l
 - Total vendido <br> 
 - Promedio de ventas<br> 
 - Venta con mayor valor<br> 
-<p>-Agrupación por categoría</p> 
+- Agrupación por categoría<br>
 
 <b>Interfaz dinámica:</b> 
--Visualización en <code>DataGridView</code><br> 
--Indicadores de estado y progreso<br> 
--Arquitectura desacoplada mediante patrón Repository<br>
+- Visualización en <code>DataGridView</code><br> 
+- Indicadores de estado y progreso<br> 
+- Arquitectura desacoplada mediante patrón Repository<br>
 
 <h2> Herramientas Tecnológicas</h2>
 
