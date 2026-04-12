@@ -11,7 +11,7 @@ El objetivo es implementar una solución que procese información sin bloquear l
 <b>Carga de ventas asíncrona:</b> Obtiene datos sin bloquear la interfaz del usuario.<br>
 <p><b>Procesamiento paralelo:</b> Uso de AsParallel() para optimizar cálculos.</p>
 <b>Cálculo de estadísticas:</b><br>
--Total vendido<br>
+* ** Total vendido ** 
 -Promedio de ventas
 -Venta con mayor valor<br>
 <p>-Agrupación por categoría</p>
