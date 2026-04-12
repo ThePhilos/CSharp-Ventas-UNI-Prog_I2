@@ -20,7 +20,7 @@ El objetivo es implementar una solución que procese información sin bloquear l
 -Indicadores de estado y progreso<br>
 -Arquitectura desacoplada mediante patrón Repository<br>
 
-
+<h2>Tecnologías Utilizadas</h2>
 
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
