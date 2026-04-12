@@ -15,18 +15,18 @@ El objetivo es implementar una solución que procese información sin bloquear l
 -Promedio de ventas
 -Venta con mayor valor<br>
 <p>-Agrupación por categoría</p>
-<b>Interfaz dinámica:</b><br>
+<b>Interfaz dinámica:</b>Herramientas tecnológicas
 -Visualización en DataGridView<br>
 -Indicadores de estado y progreso<br>
 -Arquitectura desacoplada mediante patrón Repository<br>
 
 <h2>Herramientas tecnológicas</h2>
-Lenguaje: C#
-Framework: .NET 6.0 o superior
-Interfaz de Usuario: Windows Forms (WinForms)
-Concurrencia: Task, async/await
-Paralelismo: PLINQ (AsParallel)
-Serialización (opcional): System.Text.Json
+Lenguaje: C#<br>
+Framework: .NET 6.0 o superior<br>
+Interfaz de Usuario: Windows Forms (WinForms)<br>
+Concurrencia: Task, async/await<br>
+Paralelismo: PLINQ (AsParallel)<br>
+Serialización (opcional): System.Text.Json<br>
 
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
