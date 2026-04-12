@@ -7,38 +7,6 @@ Este proyecto es una aplicación de escritorio desarrollada en C# con Windows Fo
 
 El objetivo es implementar una solución que procese información sin bloquear la interfaz, manteniendo una estructura organizada del código.
 
-<h2>🎥 Vista previa del sistema</h2>
-
-<details>
-  <summary><strong>▶️ Iniciar sistema</strong></summary>
-
-  <br>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Booting-System-yellow?style=for-the-badge">
-  </p>
-
-  <p align="center">
-    ⏳ Inicializando módulos...
-  </p>
-
-  <p align="center">
-    ▓▓▓▓▓░░░░░ 50%
-  </p>
-
-  <br>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/System-Ready-success?style=for-the-badge">
-  </p>
-
-  <p align="center">
-    🚀 Aplicación en ejecución
-  </p>
-
-</details>
-
----
 ## Funcionalidades ## 
 
 <b>Carga de ventas asíncrona:</b> Obtiene datos sin bloquear la interfaz del usuario.<br>
