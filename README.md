@@ -14,7 +14,7 @@ El objetivo es implementar una solución que procese información sin bloquear l
 </p>
 
 <p align="center">
-  <sub>💡 Reemplaza esta imagen por un GIF real de tu aplicación.</sub>
+  <sub>.</sub>
 </p>
 
 ---
