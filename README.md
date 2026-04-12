@@ -152,7 +152,104 @@ public class Venta
     }
 } 
 ```
+7.  Crear la interfaz en la carpeta Repositorio
+   ```csharp
+public interface IVentaRepository
+{
+    Task<List<Venta>> ObtenerVentasAsync();
+}
+```
+8.  Crear la clase VentaRepository.cs
+  ```csharp
+public class VentaRepository : IVentaRepository
+{
+    public async Task<List<Venta>> ObtenerVentasAsync()
+    {
+        await Task.Delay(2000);
 
+        return new List<Venta>
+        {
+            new Venta { Id = 1, Producto = "Laptop", Categoria = "Tecnología", Cantidad = 2, PrecioUnitario = 550m, Fecha = DateTime.Now.AddDays(-1) },
+            new Venta { Id = 2, Producto = "Mouse", Categoria = "Tecnología", Cantidad = 5, PrecioUnitario = 20m, Fecha = DateTime.Now.AddDays(-2) }
+        };
+    }
+}
+```
+9.  Crear el servicio en la carpeta Servicios
+  ```csharp
+    using System.Text;
+using System.Linq;
+
+public class VentaService
+{
+    public async Task<string> ProcesarVentasAsync(List<Venta> ventas)
+    {
+        return await Task.Run(() =>
+        {
+            StringBuilder sb = new StringBuilder();
+
+            decimal totalVendido = ventas.AsParallel().Sum(v => v.Total);
+            decimal promedio = ventas.AsParallel().Average(v => v.Total);
+
+            Venta ventaMayor = ventas.AsParallel()
+                .OrderByDescending(v => v.Total)
+                .FirstOrDefault();
+
+            sb.AppendLine("===== REPORTE DE VENTAS =====");
+            sb.AppendLine($"Total vendido: {totalVendido:C}");
+            sb.AppendLine($"Promedio: {promedio:C}");
+
+            if (ventaMayor != null)
+            {
+                sb.AppendLine($"Venta mayor: {ventaMayor.Producto}");
+            }
+
+            return sb.ToString();
+        });
+    }
+}
+```
+10. Programar el formulario (constructor)
+  ```csharp
+private readonly IVentaRepository _ventaRepository;
+private readonly VentaService _ventaService;
+private List<Venta> _ventas;
+
+public Form1()
+{
+    _ventaRepository = new VentaRepository();
+    _ventaService = new VentaService();
+    InitializeComponent();
+}
+```
+11. Evento del botón ¨Cargar¨
+  ```csharp
+private async void btnCargar_Click(object sender, EventArgs e)
+{
+    _ventas = await _ventaRepository.ObtenerVentasAsync();
+    dgvVentas.DataSource = _ventas;
+}
+```
+12. Evento del botón Procesar
+  ```csharp
+private async void btnProcesar_Click(object sender, EventArgs e)
+{
+    string reporte = await _ventaService.ProcesarVentasAsync(_ventas);
+    txtResultado.Text = reporte;
+}
+```
+13. Evento del botón Limpiar
+  ```csharp
+private void btnLimpiar_Click(object sender, EventArgs e)
+{
+    dgvVentas.DataSource = null;
+    txtResultado.Clear();
+}
+```
+## Cómo ejecutarlo ##
+-  Abrir la solución con Visual Studio.<br>
+-  Tener instalado .NET 6.0 o superior.<br>
+-  Ejecutar con CTRL + F5.<br>
 
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
