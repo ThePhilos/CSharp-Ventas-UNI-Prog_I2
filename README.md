@@ -41,32 +41,32 @@ El objetivo es implementar una solución que procese información sin bloquear l
 
   <ul>
     <li>
-      <strong>💻 Lenguaje</strong><br>
+      <strong> Lenguaje</strong><br>
       <sub>C# — Lenguaje principal orientado a objetos.</sub>
     </li>
     <br>
     <li>
-      <strong>🧱 Framework</strong><br>
+      <strong> Framework</strong><br>
       <sub>.NET 6.0 o superior para desarrollo moderno.</sub>
     </li>
     <br>
     <li>
-      <strong>🖥️ Interfaz</strong><br>
+      <strong> Interfaz</strong><br>
       <sub>Windows Forms (WinForms) para aplicaciones de escritorio.</sub>
     </li>
     <br>
     <li>
-      <strong>⚡ Concurrencia</strong><br>
+      <strong> Concurrencia</strong><br>
       <sub>Uso de Task y async/await para operaciones no bloqueantes.</sub>
     </li>
     <br>
     <li>
-      <strong>🚀 Paralelismo</strong><br>
+      <strong> Paralelismo</strong><br>
       <sub>PLINQ (AsParallel) para procesamiento eficiente.</sub>
     </li>
     <br>
     <li>
-      <strong>📦 Serialización</strong><br>
+      <strong> Serialización</strong><br>
       <sub>System.Text.Json (opcional) para manejo de datos.</sub>
     </li>
   </ul>
