@@ -31,7 +31,7 @@ Serialización (opcional): System.Text.Json<br>
 <h2>Documentación del Proyecto</h2>
 Para comprender el desarrollo y los conceptos aplicados en esta práctica, puedes consultar la guía base utilizada:
 <p align="left">
-  <a href="https://github.com/xOfho/CSharp-FileSystem-UNI-Prog_I1/raw/main/docs/Guia_Practica_Prog_II.pdf](https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/blob/master/docs/Gu%C3%ADa%20Pr%C3%A1ctica%20ll%20(1).pdf">
+  <a href="https://github.com/xOfho/CSharp-FileSystem-UNI-Prog_I1/raw/main/docs/Guia_Practica_Prog_II.pdf">
     <img src="https://img.shields.io/badge/Descargar%20Guía%20PDF-32CD32?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download PDF" />
   </a>
 </p>
