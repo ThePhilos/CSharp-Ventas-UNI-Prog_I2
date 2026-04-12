@@ -20,7 +20,7 @@ El objetivo es implementar una solución que procese información sin bloquear l
 -Indicadores de estado y progreso<br>
 -Arquitectura desacoplada mediante patrón Repository<br>
 
-<h2>🛠️ Herramientas Tecnológicas</h2>
+<h2> Herramientas Tecnológicas</h2>
 
 <!-- Badges -->
 <p align="center">
@@ -81,7 +81,7 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
   </a>
 </p>
 
-<h2>📂 Estructura del Código</h2>
+<h2> Estructura del Código</h2>
 
 <table>
   <thead>
