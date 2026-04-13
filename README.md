@@ -265,7 +265,7 @@ private async void btnCargar_Click(object sender, EventArgs e)
 
 ```
 <p align="center">
-  <img src="screenshots/(6)butoncargar.png" width="45%" />
+  <img src="screenshots/(6)butoncargar.png" width="100%" />
 </p>
 
 12. Evento del botón Procesar
@@ -277,7 +277,7 @@ private async void btnProcesar_Click(object sender, EventArgs e)
 }
 ```
 <p align="center">
-  <img src="screenshots/(7)butonprocesar.png" width="45%" />
+  <img src="screenshots/(7)butonprocesar.png" width="100%" />
 </p>
 
 13. Evento del botón Limpiar
@@ -290,7 +290,7 @@ private void btnLimpiar_Click(object sender, EventArgs e)
 ```
 
 <p align="center">
-  <img src="screenshots/butonlimpiar.png" width="45%" />
+  <img src="screenshots/butonlimpiar.png" width="100%" />
 </p>
 
 ## Cómo ejecutarlo ##
