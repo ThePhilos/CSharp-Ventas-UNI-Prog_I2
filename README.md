@@ -137,6 +137,10 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 -  ProgressBar → <code>progressBar1</code><br>
 -  TextBox multilínea → <code>txtResultado</code><br>
 
+Para que se Observe de ésta manera:<br>
+<p align="left">
+
+
 <p>6. Crear la entidad en la carpeta Entidades</p>
 
 ```csharp
