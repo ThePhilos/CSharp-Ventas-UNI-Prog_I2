@@ -143,7 +143,9 @@ Para que se Observe de ésta manera:<br>
   
   ![Interfaz](screenshots/(1)Interfaz.png)
 
-<p>6. Crear la entidad en la carpeta Entidades</p>
+<p>6. Luego en la parte de Explorador de soluciones, dar click
+derecho al proyecto, luego crear tres carpetas con estos nombres:
+Entidades, Repositorio, Servicio.</p>
 
 ```csharp
 public class Venta
@@ -162,7 +164,10 @@ public class Venta
     }
 } 
 ```
-![Carpetas](screenshots/Carpetacrea.png)
+<p align="center">
+  <img src="screenshots/Carpetacrea.png" width="45%" />
+  <img src="screenshots/otra_imagen.png" width="45%" />
+</p>
 
 7.  Crear la interfaz en la carpeta Repositorio
    ```csharp
