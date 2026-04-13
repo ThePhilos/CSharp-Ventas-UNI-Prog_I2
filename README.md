@@ -189,6 +189,12 @@ public interface IVentaRepository
   ```csharp
 public class VentaRepository : IVentaRepository
 {
+<p align="center">
+  | 1.
+  <img src="screenshots/(8)ventasJson,en,ventasrepository.png" width="45%" />
+  | 2.
+  <img src="screenshots/(8)ventasJson,en,ventasrepository.png" width="45%" />
+</p>
     public async Task<List<Venta>> ObtenerVentasAsync()
     {
         await Task.Delay(2000);
