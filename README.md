@@ -178,6 +178,12 @@ public interface IVentaRepository
     Task<List<Venta>> ObtenerVentasAsync();
 }
 ```
+<p align="center">
+  | 1.
+  <img src="screenshots/(4)_CLse_y_interfaz.png" width="45%" />
+  | 2.
+  <img src="screenshots/(4.1).png" width="45%" />
+</p>
 8.  Crear la clase VentaRepository.cs
   ```csharp
 public class VentaRepository : IVentaRepository
