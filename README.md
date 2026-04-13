@@ -162,7 +162,7 @@ public class Venta
     }
 } 
 ```
-![Carpetas](screenshots/(3)-creaciones-de-carpeta.png)
+![Carpetas](screenshots/(3)_creaciones_de_carpeta.png)
 
 7.  Crear la interfaz en la carpeta Repositorio
    ```csharp
