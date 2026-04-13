@@ -139,7 +139,8 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 
 Para que se Observe de ésta manera:<br>
 <p align="left">
-
+  
+  ![Interfaz](screenshots/(1)Interfaz.png)
 
 <p>6. Crear la entidad en la carpeta Entidades</p>
 
