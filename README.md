@@ -166,9 +166,9 @@ public class Venta
 ```
 <p align="center">
   | 1.
-  <img src="screenshots/(3.1).png" width="45%" />
-  | 2.
   <img src="screenshots/Carpetacrea.png" width="45%" />
+  | 2.
+  <img src="screenshots/(3.1).png" width="45%" />
 </p>
 
 7.  Crear la interfaz en la carpeta Repositorio
