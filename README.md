@@ -255,7 +255,7 @@ public Form1()
 ```
 11. Evento del botón ¨Cargar¨
 <p align="center">
-  <img src="screenshots/(6)botoncargar.png" width="45%" />
+  <img src="screenshots/(6)butoncargar.png" width="45%" />
 </p>
   ```csharp
 private async void btnCargar_Click(object sender, EventArgs e)
