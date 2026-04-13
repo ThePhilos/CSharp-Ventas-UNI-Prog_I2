@@ -255,17 +255,19 @@ public Form1()
 
 ```
 11. Evento del botón ¨Cargar¨
-<p align="center">
-  <img src="screenshots/(6)butoncargar.png" width="45%" />
-</p>
-
+    
   ```csharp
 private async void btnCargar_Click(object sender, EventArgs e)
 {
     _ventas = await _ventaRepository.ObtenerVentasAsync();
     dgvVentas.DataSource = _ventas;
 }
+
 ```
+<p align="center">
+  <img src="screenshots/(6)butoncargar.png" width="45%" />
+</p>
+
 12. Evento del botón Procesar
   ```csharp
 private async void btnProcesar_Click(object sender, EventArgs e)
@@ -274,6 +276,10 @@ private async void btnProcesar_Click(object sender, EventArgs e)
     txtResultado.Text = reporte;
 }
 ```
+<p align="center">
+  <img src="screenshots/(7)butonprocesar.png" width="45%" />
+</p>
+
 13. Evento del botón Limpiar
   ```csharp
 private void btnLimpiar_Click(object sender, EventArgs e)
@@ -282,6 +288,11 @@ private void btnLimpiar_Click(object sender, EventArgs e)
     txtResultado.Clear();
 }
 ```
+
+<p align="center">
+  <img src="screenshots/butonlimpiar.png" width="45%" />
+</p>
+
 ## Cómo ejecutarlo ##
 -  Abrir la solución con Visual Studio.<br>
 -  Tener instalado .NET 6.0 o superior.<br>
