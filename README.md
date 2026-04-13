@@ -162,6 +162,8 @@ public class Venta
     }
 } 
 ```
+![Carpetas](screenshots/(3)creacionesdecarpeta.png)
+
 7.  Crear la interfaz en la carpeta Repositorio
    ```csharp
 public interface IVentaRepository
