@@ -259,10 +259,32 @@ public Form1()
   ```csharp
 private async void btnCargar_Click(object sender, EventArgs e)
 {
-    _ventas = await _ventaRepository.ObtenerVentasAsync();
-    dgvVentas.DataSource = _ventas;
-}
+  {
+ try
+ {
+   lblEstado.Text = "Cargando ventas...";
+   progressBar1.Style = ProgressBarStyle.Marquee;
+   btnCargar.Enabled = false;
+   btnProcesar.Enabled = false;
 
+    _ventas = await _ventaRepository.ObtenerVentasAsync();
+    dgvVentas.DataSource = null;
+    dgvVentas.DataSource = _ventas;
+blEstado.Text = "Ventas cargadas correctamente.";
+ }
+ catch (Exception ex)
+ {
+ MessageBox.Show("Ocurrió un error al cargar ventas:
+" + ex.Message);
+ }
+ finally
+ {
+ progressBar1.Style = ProgressBarStyle.Blocks;
+ btnCargar.Enabled = true;
+ btnProcesar.Enabled = true;
+   }
+  }
+}
 ```
 <p align="center">
   <img src="screenshots/(6)butoncargar.png" width="100%" />
