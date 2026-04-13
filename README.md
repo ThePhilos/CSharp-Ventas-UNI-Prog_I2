@@ -185,6 +185,7 @@ public interface IVentaRepository
   <img src="screenshots/(4.1).png" width="45%" />
 </p>
 8.  Crear la clase VentaRepository.cs
+
   ```csharp
 public class VentaRepository : IVentaRepository
 {
@@ -199,6 +200,7 @@ public class VentaRepository : IVentaRepository
         };
     }
 }
+
 ```
 9.  Crear el servicio en la carpeta Servicios
   ```csharp
