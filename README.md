@@ -252,11 +252,13 @@ public Form1()
     _ventaService = new VentaService();
     InitializeComponent();
 }
+
 ```
 11. Evento del botón ¨Cargar¨
 <p align="center">
   <img src="screenshots/(6)butoncargar.png" width="45%" />
 </p>
+
   ```csharp
 private async void btnCargar_Click(object sender, EventArgs e)
 {
