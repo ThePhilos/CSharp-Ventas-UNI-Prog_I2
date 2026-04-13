@@ -119,8 +119,10 @@ Para comprender el desarrollo y los conceptos aplicados en esta práctica, puede
 
 ## Pasos a seguir: ##
 1. Abrir Visual Studio 2022.<br>
+![Inicio](screenshots/Imagen1.png)
 2. Crear nuevo proyecto Windows Forms App (.NET).<br>
 3. Asegurarse de seleccionar .NET 6.0 o superior.<br>
+
 4. Crear tres carpetas en el proyecto:<br>
 
 -  Entidades<br>
