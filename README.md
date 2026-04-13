@@ -180,7 +180,7 @@ public interface IVentaRepository
 ```
 <p align="center">
   | 1.
-  <img src="screenshots/(4)_CLse_y_interfaz.png" width="45%" />
+  <img src="screenshots/(4)clase,interfaz.png" width="45%" />
   | 2.
   <img src="screenshots/(4.1).png" width="45%" />
 </p>
